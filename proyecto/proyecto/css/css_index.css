@@ -1,0 +1,106 @@
+body{
+	font:400 100%/1.5em 'chaparral-pro', Georgia, serif;
+}
+#contenedorMenu ul{
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#contenedorMenu ul li{
+	margin-top: 10px;
+	
+	float: left;
+}
+
+#contenedorMenu a{
+
+	padding: 10px 9px;
+	background: black;
+	text-decoration: none;
+	color:white;
+}
+
+#contenedorMenu{
+	margin: 0 auto;
+	background: #eee;
+	width: 440px;
+	height: 50px;
+}
+#contenedorPaneles{
+margin-top: 50px; 
+}
+#inicio{
+	
+}
+
+#institucion{
+	
+}
+
+#acceso{
+	
+
+}
+
+#servicios{
+}
+
+#servicios h4 {
+	color: blue;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 20px;	
+}
+
+#servicios label {
+	color: green;
+	margin-left: 10px;
+}
+
+#servicios li {
+	margin-top: 10px;
+}
+
+#servicios input[type="text"]{
+	width: 150px;
+}
+
+#servicios textarea{
+	width: 95%;
+	margin-left: 10px;
+	height: 70px;
+
+}
+
+#servicios hr{
+	width: 75%;
+	margin-top: 10px;
+}
+
+
+#servicios input[type="submit"], #servicios input[type="reset"]{
+	width: 100px;
+	height: 50px;
+	font-size: 15px;
+	font-weight: bold;
+
+
+}
+
+#servicios .botones {
+	text-align: center;
+}
+
+#contacto{
+	
+}
+.panel{
+	margin: 0 auto; 
+	width: 900px;
+	background: #f6f6f6;
+}
+
+///////////////////////////CSS PARA EL FORMULARIO/////////////////////////////
